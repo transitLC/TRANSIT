@@ -58,3 +58,9 @@
 [submodule "src/CommandLineInterface"]
 	path = src/CommandLineInterface
 	url = https://github.com/niptk-org/CommandLineInterface
+[submodule "src/image_basic"]
+	path = src/image_basic
+	url = https://github.com/milk-org/image_basic
+[submodule "src/statistic"]
+	path = src/statistic
+	url = https://github.com/milk-org/statistic
