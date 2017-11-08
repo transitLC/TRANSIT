@@ -1,7 +1,4 @@
  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://travis-ci.org/oguyon/Cfits.svg?branch=master)](https://travis-ci.org/oguyon/Cfits)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1154/badge)](https://bestpractices.coreinfrastructure.org/projects/1154)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/596968680753486e8146b764644a604c)](https://www.codacy.com/app/oguyon/Cfits?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oguyon/Cfits&amp;utm_campaign=Badge_Grade)
 
 
 # TRANSIT : Transit Light  Curve Analysis 
@@ -21,6 +18,7 @@ Executable launches a command line interface (CLI). Type "help" in the CLI to ge
 The FALCON package follows the standard git clone steps and GNU build process :
 
 	git clone https://github.com/transitLC/TRANSIT
+	cd TRANSIT
 	git submodule init
 	git submodule update
 	autoreconf -i

@@ -29,9 +29,9 @@ TRANSIT_LDADD =
 ## Transit LC module 
 ##
 
-SUBDIRS += transitLC
-TRANSIT_LDADD += transitLC/libtransitlc.la
-TRANSIT_CPPFLAGS += -I@abs_top_srcdir@/src/transitLC
+SUBDIRS += TransitLC
+TRANSIT_LDADD += TransitLC/libtransitlc.la
+TRANSIT_CPPFLAGS += -I@abs_top_srcdir@/src/TransitLC
 
 
 

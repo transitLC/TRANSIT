@@ -393,7 +393,7 @@ src/psf/Makefile \
 src/cudacomp/Makefile \
 src/kdtree/Makefile \
 src/linARfilterPred/Makefile \
-src/transitLC/Makefile)
+src/TransitLC/Makefile)
 
 AC_OUTPUT
 
