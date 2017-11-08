@@ -1,5 +1,5 @@
 [submodule "src/transitLC"]
-	path = src/transitLC
+	path = src/TransitLC
 	url = https://github.com/transitLC/transitLC
 [submodule "src/image_filter"]
 	path = src/image_filter
